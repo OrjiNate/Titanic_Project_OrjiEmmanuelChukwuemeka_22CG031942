@@ -1,0 +1,11 @@
+Orji Emmanuel Chukwuemeka
+
+22CG031942
+
+Machine Learning Algorithm Used
+
+Model persistence method used (e.g., Joblib or Pickle)
+
+Live URL of the hosted application
+
+https://github.com/OrjiNate/Titanic_Project_OrjiEmmanuelChukwuemeka_22CG031942.git
