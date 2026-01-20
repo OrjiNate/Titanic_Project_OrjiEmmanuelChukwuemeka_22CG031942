@@ -2,10 +2,10 @@ Orji Emmanuel Chukwuemeka
 
 22CG031942
 
-Machine Learning Algorithm Used
+Algorithm: Random Forest Classifier
 
-Model persistence method used (e.g., Joblib or Pickle)
+Persistence: Joblib
 
-Live URL of the hosted application
+https://titanicprojectorjiemmanuelchukwuemeka22cg031942-dvvaxx6vzs3pl4.streamlit.app
 
 https://github.com/OrjiNate/Titanic_Project_OrjiEmmanuelChukwuemeka_22CG031942.git
